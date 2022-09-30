@@ -80,6 +80,13 @@ hobbies: ["Metaverse Technology Creation","Youtube content creation","Cinema"]
                     
 </p>
 
+
+
 ![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakHr&show_icons=true&theme=radical)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakHr&layout=compact)](https://github.com/prakHr/github-readme-stats)
+
 
 ![Snake animation](https://github.com/prakHr/prakHr/blob/output/github-contribution-grid-snake.svg)

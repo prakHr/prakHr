@@ -22,40 +22,41 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hey%20Everyone&fontSize=90" />
 
-```yaml
 
-name: Prakhar Gandhi
-located_in: Bangalore, Karnataka
-current_job: Data Analyst
-education:
-[
-  "Self-Taught Developer and Designer",
-  "B Tech in Electronics and Intrumentation",
-]
-company: SCBGBS
+- name: Prakhar Gandhi
+- located_in: Bangalore, Karnataka
+- current_job: Data Analyst
 
-fields_of_interests:
-[
-  "Web Development",
-  "Data Science",
-  "Machine Learning",
-  "UI/UX",
-  "Network Programming"
-]
-technical_background:
-[
-  "Data Analyst",
-  "Intern - Database Management & Machine Learning in Python",
-  "Intern - Artificial Intelligence",
-]
 
-currently_learning: ["MapReduce, Network Programming and ML Algos from scratch"]
+- education:
+  - [x] "Self-Taught Developer and A Better Coder Than Yesterday",
+  - [x] "B Tech in Electronics and Intrumentation",
 
-2022 Goals: ["Learn to write optimized algorithms using the knowledge of Competitive Programming Contests. Do at least 2 self taught courses till the end of this year."]
+- company: SCBGBS
 
-hobbies: ["Metaverse Technology Creation","Youtube content creation","Cinema"]
 
-```
+- fields_of_interests:
+  - [x]  "Web Development",
+  - [x]  "Data Science",
+  - [x]  "Machine Learning",
+  - [x]  "UI/UX",
+  - [x]  "Network Programming"
+
+- technical_background:
+  - [x]  "Data Analyst",
+  - [x]  "Intern - Database Management & Machine Learning in Python",
+  - [x]  "Intern - Artificial Intelligence",
+
+
+- currently_learning: 
+  - [x] "MapReduce, Network Programming and ML Algos from scratch"
+
+- 2022 Goals: 
+  - [ ] "Learn to write optimized algorithms using the knowledge of Competitive Programming Contests. Do at least 2 self taught courses till the end of this year."
+
+- hobbies: ["Metaverse Technology Creation","Youtube content creation","Cinema"]
+
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">

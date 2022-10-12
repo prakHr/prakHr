@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   - [x] "MapReduce, Network Programming and ML Algos from scratch"
 
 - 2022 Goals: 
-  - [ ] "Learn to write optimized algorithms using the knowledge of Competitive Programming Contests. Do at least 2 self taught courses till the end of this year."
+  - [ ] "Learn to write optimized algorithms using the knowledge of Competitive Programming Contests. Do at least 2 self taught courses till the end of this year.(One Done on Game Development in Unity using c-sharp)"
 
 - hobbies: ["Metaverse Technology Creation","Youtube content creation","Cinema"]
 

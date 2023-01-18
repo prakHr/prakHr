@@ -82,12 +82,11 @@ Here are some ideas to get you started:
 </p>
 
 
-
-![Prakhar's GitHub stats](https://git-readme-stats-five.vercel.app/api?username=prakHr&show_icons=true&theme=radical)
-
+![Prakhar's GitHub stats](https://github-readme-stats-dusky-eight.vercel.app/api?username=prakHr&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://git-readme-stats-five.vercel.app/api/top-langs/?username=prakHr&layout=compact)](https://github.com/prakHr/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-dusky-eight.vercel.app/api/top-langs/?username=prakHr&layout=compact)](https://github-readme-stats-dusky-eight.vercel.app)
 
 
 ![Snake animation](https://github.com/prakHr/prakHr/blob/output/github-contribution-grid-snake.svg)

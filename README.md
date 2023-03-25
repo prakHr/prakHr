@@ -4,7 +4,7 @@
 _ 👂 My name is Prakhar Gandhi
 - 🔭 I’m currently working in Standard Chartered Bank Global Business Services Private Limited @ Bangalore office on building solutions in Machine Learning, Deep Learning, Artificial Intelligence and Computer Vision.
 - 📫 How to reach me: Through gprakhar0@gmail.com 
-
+- 🌱 You can see what I am currently upto on https://metaverse-portfolio-website.vercel.app/
 
 <!--
 **prakHr/prakHr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,33 +29,38 @@ Here are some ideas to get you started:
 
 
 - education:
-  - [x] "Self-Taught Developer and A Better Coder Than Yesterday",
-  - [x] "B Tech in Electronics and Intrumentation",
+  - [x] Self-Taught Developer, newly found interest in Competitive Programming in search of finding solutions of seemingly impossible problems along with writing optimized code using Data Structures and algoritmss and A Better Coder Than Yesterday,
+  - [x] B Tech in Electronics and Intrumentation from BITS Pilani Hyderabad Campus,
+  - [x] Did Udemy Courses related to basics of Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Applied Statistics in the area of Hypothesis Testing, Bayesian Learning using A/B Testing and UI/UX website development in python. 
 
-- company: SCBGBS
+- company: SCBGBS(Standard Chartered Bank Global Business Services Private Limited)
 
 
 - fields_of_interests:
-  - [x]  "Web Development",
-  - [x]  "Data Science",
-  - [x]  "Machine Learning",
-  - [x]  "UI/UX",
-  - [x]  "Network Programming"
+  - [x]  Web Development,
+  - [x]  Data Science,
+  - [x]  Machine Learning,
+  - [x]  UI/UX Programming in python,
+  - [x]  Network Programming in python,
+  - [x]  Noise Detection in images,
+     
 
 - technical_background:
-  - [x]  "Data Analyst",
-  - [x]  "Intern - Database Management & Machine Learning in Python",
-  - [x]  "Intern - Artificial Intelligence",
+  - [x]  Employed - Data Analyst,
+  - [x]  Intern - Database Management & Machine Learning in Python,
+  - [x]  Intern - Artificial Intelligence,
 
 
 - currently_learning: 
-  - [x] "MapReduce, Network Programming and ML Algos from scratch"
+  - [x] MapReduce, Network Programming and ML Algos from scratch
 
 - 2022 Goals: 
-  - [ ] "Learn to write optimized algorithms using the knowledge of Competitive Programming Contests. Do at least 2 self taught courses till the end of this year.(One Done on Game Development in Unity using c-sharp)"
+  - [x] Learn to write optimized algorithms using the knowledge of Competitive Programming Contests. Do at least 2 self taught courses till the end of this year.(One Done on Game Development in Unity using c-sharp and another done on blockchain). 
 
-- hobbies: ["Metaverse Technology Creation","Youtube content creation","Cinema"]
+- 2023 Goals: 
+  - [x] Now moved on to courses related to Bayesian ML in A/B Testing and Advanced Computer Vision. 
 
+- hobbies: ["Metaverse Technology Creation","Youtube content creation","Cinema","Prompt Engineering using ChatGPT","Learning Core Subjects of CS like OOPs(Object Oriented Programming), OS(Operating Systems), DBMS(Database Management Systems) and CN(Computer Networks)"]
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -82,11 +87,11 @@ Here are some ideas to get you started:
 </p>
 
 
-![Prakhar's GitHub stats](https://github-readme-stats-dusky-eight.vercel.app/api?username=prakHr&show_icons=true&theme=radical)
+![Prakhar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=prakHr&show_icons=true&theme=radical)
 
 
 
-[![Top Langs](https://github-readme-stats-dusky-eight.vercel.app/api/top-langs/?username=prakHr&layout=compact)](https://github-readme-stats-dusky-eight.vercel.app)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prakHr&layout=compact)](https://github-readme-stats-sigma-five.vercel.app)
 
 
 ![Snake animation](https://github.com/prakHr/prakHr/blob/output/github-contribution-grid-snake.svg)

@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+data+analyst+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack data analyst from India." />
+</p>
 
 _ 👂 My name is Prakhar Gandhi
 - 🔭 I’m currently working in Standard Chartered Bank Global Business Services Private Limited @ Bangalore office on building solutions in Machine Learning, Deep Learning, Artificial Intelligence and Computer Vision.

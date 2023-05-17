@@ -75,9 +75,25 @@ Here are some ideas to get you started:
   - [x] Learn to write optimized algorithms using the knowledge of Competitive Programming Contests. Do at least 2 self taught courses till the end of this year.(One Done on Game Development in Unity using c-sharp and another done on blockchain). 
 
 - 2023 Goals: 
-  - [x] Now moved on to courses related to Bayesian ML in A/B Testing and Advanced Computer Vision. 
+  - [x] Completed courses related to Bayesian ML in A/B Testing and Advanced Computer Vision. 
+  - [ ] Now moved on to courses related to MLOps using AWS Sagemaker, Microsoft Azure and Reinforcement Learning.
+  - [ ] Now moved on to courses related to System Design.
+  
 
-- hobbies: ["Metaverse Technology Creation","Youtube content creation","Cinema","Prompt Engineering using ChatGPT","Learning Core Subjects of CS like OOPs(Object Oriented Programming), OS(Operating Systems), DBMS(Database Management Systems) and CN(Computer Networks)"]
+- hobbies: [
+    
+  💬  "Metaverse Technology Creation",
+    <br>
+  💬 "Youtube content creation",
+    <br>
+  💬  "Cinema",
+    <br>
+  💬  "Prompt Engineering using ChatGPT",
+    <br>
+  💬  "Learning Core Subjects of CS like OOPs(Object Oriented Programming), OS(Operating Systems), DBMS(Database Management Systems) and CN(Computer Networks)"
+    <br>
+    
+]
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>

@@ -5,7 +5,8 @@
 </p>
 
 _ 👂 My name is Prakhar Gandhi
-- 🔭 I’m currently working in Standard Chartered Bank Global Business Services Private Limited @ Bangalore office on building solutions in Machine Learning, Deep Learning, Artificial Intelligence and Computer Vision.
+- 🔭 Immediately available to join any company and prefer to do permanent WFH.
+- 🔭 I’m currently working on making personal top 50 ideas and make them come to reality. Previously worked in Standard Chartered Bank Global Business Services Private Limited @ Bangalore office on building solutions in Machine Learning, Deep Learning, Artificial Intelligence and Computer Vision.
 - 📫 How to reach me: Through gprakhar0@gmail.com 
 - 🌱 You can see what I am currently upto on https://metaverse-portfolio-website.vercel.app/
 

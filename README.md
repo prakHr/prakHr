@@ -77,8 +77,8 @@ Here are some ideas to get you started:
 
 - 2023 Goals: 
   - [x] Completed courses related to Bayesian ML in A/B Testing and Advanced Computer Vision. 
-  - [ ] Now moved on to courses related to MLOps using AWS Sagemaker, Microsoft Azure and Reinforcement Learning.
-  - [ ] Now moved on to courses related to System Design.
+  - [x] Completed courses related to MLOps using AWS Sagemaker, Microsoft Azure and Reinforcement Learning.
+  - [ ] Now moved on to courses related to System Design in 2024.
   
 
 - hobbies: [

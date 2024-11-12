@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 - 2024 Goals: 
   - [x] Python Package related to querying of advanced google search(pip install textual-advanced-google-search) @ https://pypi.org/project/textual-advanced-google-search/
   - [x] Deployed docker container(docker pull gprakhar/adv-search11:latest) @ https://hub.docker.com/repository/docker/gprakhar/adv-search11/general
-  - [x] Deployed an playwright api(postman post request) @ https://vercel-docker.onrender.com
+  - [x] Deployed an playwright api(postman post request @ https://github.com/prakHr/Portfolio-Site/blob/master/images/postman-request.png) @ https://vercel-docker.onrender.com/api/search
   - [x] Added features on metaverse portfolio website @ https://metaverse-portfolio-website.vercel.app/  
 
   

@@ -5,6 +5,7 @@
 </p>
 
 _ 👂 My name is Prakhar Gandhi
+- 🔭 Deployed features related to my machine learning.
 - 🔭 Immediately available to join any company and prefer to do permanent WFH.
 - 🔭 I’m currently working on making personal top 50 ideas and make them come to reality. Previously worked in Standard Chartered Bank Global Business Services Private Limited @ Bangalore office on building solutions in Machine Learning, Deep Learning, Artificial Intelligence and Computer Vision.
 - 📫 How to reach me: Through gprakhar0@gmail.com 
@@ -61,6 +62,7 @@ Here are some ideas to get you started:
   - [x]  UI/UX Programming in python,
   - [x]  Network Programming in python,
   - [x]  Noise Detection in images,
+  - [x]  Docker 
      
 
 - technical_background:
@@ -79,6 +81,13 @@ Here are some ideas to get you started:
   - [x] Completed courses related to Bayesian ML in A/B Testing and Advanced Computer Vision. 
   - [x] Completed courses related to MLOps using AWS Sagemaker, Microsoft Azure and Reinforcement Learning.
   - [ ] Now moved on to courses related to System Design in 2024.
+        
+- 2024 Goals: 
+  - [x] Python Package related to querying of advanced google search(pip install textual-advanced-google-search) @ https://pypi.org/project/textual-advanced-google-search/
+  - [x] Deployed docker container(docker pull gprakhar/adv-search11:latest) @ https://hub.docker.com/repository/docker/gprakhar/adv-search11/general
+  - [x] Deployed an playwright api(postman post request) @ https://vercel-docker.onrender.com
+  - [x] Added features on metaverse portfolio website @ https://metaverse-portfolio-website.vercel.app/  
+
   
 
 - hobbies: [

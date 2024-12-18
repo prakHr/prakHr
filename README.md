@@ -7,7 +7,7 @@
 _ 👂 My name is Prakhar Gandhi
 - 🔭 Deployed features related to my machine learning.
 - 🔭 Immediately available to join any company and prefer to do permanent WFH.
-- 🔭 I’m currently working on making personal top 50 ideas and make them come to reality. Previously worked in Standard Chartered Bank Global Business Services Private Limited @ Bangalore office on building solutions in Machine Learning, Deep Learning, Artificial Intelligence and Computer Vision.
+- 🔭 I have worked on making personal top 50 ideas and made them come to reality. Currently working in MBRDI(Mercedes Benz Research and Development India) and Wipro Private Limited for automation of software and optimization related algorithms on various paradigm shift of software. Previously worked in Standard Chartered Bank Global Business Services Private Limited @ Bangalore office on building solutions in Machine Learning, Deep Learning, Artificial Intelligence and Computer Vision.
 - 📫 How to reach me: Through gprakhar0@gmail.com 
 - 🌱 You can see what I am currently upto on https://metaverse-portfolio-website.vercel.app/
 
@@ -82,8 +82,11 @@ Here are some ideas to get you started:
   - [x] Completed courses related to MLOps using AWS Sagemaker, Microsoft Azure and Reinforcement Learning.
   - [ ] Now moved on to courses related to System Design in 2024.
         
-- 2024 Goals: 
-  - [x] Added features on metaverse portfolio website @ https://metaverse-portfolio-website.vercel.app/  
+- 2024 Goals:
+  - [x] Created and automated the question answer generation pipeline using the logic of algorithms found in Competitive Programming and parallel processing.
+  - [x] Added features on metaverse portfolio website @ https://metaverse-portfolio-website.vercel.app/
+  - [x] Created packages that automates the generation of datasets for supervised and unsupervised learning. Made the packages scalable. Created best accurate models for classification task by using genetic algorithms. For tagging used models without using the api keys.
+  - [x] Solved np complete problems for example query search in the corpus for every permutation and combination using different levels.     
 
   
 

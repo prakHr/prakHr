@@ -5,6 +5,7 @@
 </p>
 
 _ 👂 My name is Prakhar Gandhi
+- 🔭 Deployed a scalable web app like Youtube with Location based Queries.
 - 🔭 Deployed features related to my machine learning.
 - 🔭 Immediately available to join any company and prefer to do permanent WFH.
 - 🔭 I have worked on making personal top 50 ideas and made them come to reality. Currently working in MBRDI(Mercedes Benz Research and Development India) and Wipro Private Limited for automation of software and optimization related algorithms on various paradigm shift of software. Previously worked in Standard Chartered Bank Global Business Services Private Limited @ Bangalore office on building solutions in Machine Learning, Deep Learning, Artificial Intelligence and Computer Vision.

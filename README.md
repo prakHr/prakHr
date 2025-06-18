@@ -45,7 +45,8 @@ Here are some ideas to get you started:
 
 - name: Prakhar Gandhi
 - located_in: Bangalore, Karnataka
-- current_job: Data Analyst
+- current_job: Senior Software Engineer
+- previous_job: Data Analyst
 
 
 - education:
@@ -53,7 +54,8 @@ Here are some ideas to get you started:
   - [x] B Tech in Electronics and Intrumentation from BITS Pilani Hyderabad Campus,
   - [x] Did Udemy Courses related to basics of Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Applied Statistics in the area of Hypothesis Testing, Bayesian Learning using A/B Testing and UI/UX website development in python. 
 
-- company: SCBGBS(Standard Chartered Bank Global Business Services Private Limited)
+- company: Ericsson
+- previous companies: MBRDI(Mercedes Benz Research and Development India), SCBGBS(Standard Chartered Bank Global Business Services Private Limited)
 
 
 - fields_of_interests:
@@ -67,7 +69,8 @@ Here are some ideas to get you started:
      
 
 - technical_background:
-  - [x]  Employed - Data Analyst,
+  - [x]  Employed - Senior Software Engineer,
+  - [x]  Previously Employed As - Data Analyst,
   - [x]  Intern - Database Management & Machine Learning in Python,
   - [x]  Intern - Artificial Intelligence,
 
@@ -89,6 +92,9 @@ Here are some ideas to get you started:
   - [x] Created packages that automates the generation of datasets for supervised and unsupervised learning. Made the packages scalable. Created best accurate models for classification task by using genetic algorithms. For tagging used models without using the api keys.
   - [x] Solved np complete problems for example query search in the corpus for every permutation and combination using different levels.     
 
+- 2025 Goals:
+   - [x] Created a chatbot like chatgpt integrated with llm with chat history stored in databases and fetch it from there to show it in UI for our company.
+   - [x] Created a web app in lit.js which is similar to react.js and other javascript libraries out there.
   
 
 - hobbies: [

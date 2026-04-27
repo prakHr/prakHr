@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+data+analyst+from+India" alt="Welcome to my GitHub Profile. I am a passionate AIML Computational Science Specialist from India." />
 </p>
 
-_ 👂 My name is Prakhar Gandhi
+_ 👂 My name is Prakhar Gandhi, I am the man who will become king of the pirates
+- 🔭 Deployed Arc Reactor to open my website. You can find the deployed arc reactor @ https://prakhr.github.io/Portfolio-Site/
 - 🔭 Deployed a scalable web app like Youtube with Location based Queries(locTube). Also other apps included CubeClicker, JsonDataViewer, JsonDataChartViewer are also deployed. You can find the deployed app @ https://prakhr.github.io/Portfolio-Site/#enterpriseWebApps
 - 🔭 Deployed features related to my machine learning.
 - 🔭 Immediately available to join any company and prefer to do permanent WFH.

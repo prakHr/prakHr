@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+Senior+Technical+Lead+Architect+from+India" alt="Welcome to my GitHub Profile. I am a passionate AIML Computational Science Specialist from India." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;A+passionate+full-stack+Senior+Technical+Lead+Architect+India" alt="Welcome to my GitHub Profile. I am a passionate AIML Computational Science Specialist from India." />
 </p>
 
 _ 👂 My name is Prakhar Gandhi, I am the man who will become king of the pirates

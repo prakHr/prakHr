@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/19fc2167-e111-4007-9fe4-dc77698e425e" />
+
+
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;A+passionate+full-stack+Senior+Technical+Lead+Architect+India" alt="Welcome to my GitHub Profile. I am a passionate AIML Computational Science Specialist from India." />
 </p>

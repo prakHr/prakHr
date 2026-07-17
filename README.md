@@ -107,7 +107,7 @@ Launched India's best free price based universal product (Vikhorix)
 - 2023 Goals: 
   - [x] Completed courses related to Bayesian ML in A/B Testing and Advanced Computer Vision. 
   - [x] Completed courses related to MLOps using AWS Sagemaker, Microsoft Azure and Reinforcement Learning.
-  - [ ] Now moved on to courses related to System Design in 2024.
+  - [x] Now moved on to courses related to System Design in 2024.
         
 - 2024 Goals:
   - [x] Created and automated the question answer generation pipeline using the logic of algorithms found in Competitive Programming and parallel processing.

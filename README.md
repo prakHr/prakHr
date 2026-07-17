@@ -61,7 +61,7 @@ Launched India's best free price based universal product (Vikhorix)
 
 
 - education:
-  - [x] Self-Taught Developer, newly found interest in Competitive Programming in search of finding solutions of seemingly impossible problems along with writing optimized code using Data Structures and algoritmss and A Better Coder Than Yesterday,
+  - [x] Self-Taught Developer, newly found interest in Competitive Programming in search of finding solutions of seemingly impossible problems along with writing optimized code using Data Structures and algorithms and A Better Coder Than Yesterday,
   - [x] B Tech in Electronics and Intrumentation from BITS Pilani Hyderabad Campus,
   - [x] Did Udemy Courses related to basics of Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Applied Statistics in the area of Hypothesis Testing, Bayesian Learning using A/B Testing and UI/UX website development in python. 
 

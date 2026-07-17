@@ -17,14 +17,8 @@ _ 👂 My name is Prakhar Gandhi, I am the man who will become king of the pirat
 - 🌱 You can see what I am currently upto on https://metaverse-portfolio-website.vercel.app/
 
 <p align="center" style='margin: 16px 4px 8px;'>
-    <img src="https://komarev.com/ghpvc/?username=prakHr&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
-</p>
-
-<p align="center" style='margin: 16px 4px 8px;'>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=prakHr&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
-        <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e1976fd-6c97-48dc-9289-39172d2c7601" />
-
+        <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b8643585-b099-4bbf-9c8f-5480170f58d2" />
     </a>
 </p>
 

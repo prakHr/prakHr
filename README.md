@@ -46,13 +46,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hey%20Everyone&fontSize=90" />
+Launched India's best free price based universal product (Vikhorix)
+
+<img width="1852" height="652" alt="image" src="https://github.com/user-attachments/assets/df7b405e-364c-4bf9-a44e-ba1c56705603" />
 
 
 - name: Prakhar Gandhi
 - located_in: Bangalore, Karnataka
-- current_job: Senior Software Engineer
-- previous_job: Data Analyst
+- current_job: Senior Technical Lead Architect
+- previous_job: Senior Software Engineer
+- previous_previous_job: Prompt Engineeer
+- previous_previous_previous_job: Data Analyst II
+- previous_previous_previous_previous_job: Data Analyst
 
 
 - education:
@@ -60,18 +65,30 @@ Here are some ideas to get you started:
   - [x] B Tech in Electronics and Intrumentation from BITS Pilani Hyderabad Campus,
   - [x] Did Udemy Courses related to basics of Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Applied Statistics in the area of Hypothesis Testing, Bayesian Learning using A/B Testing and UI/UX website development in python. 
 
-- company: Ericsson
-- previous companies: MBRDI(Mercedes Benz Research and Development India), SCBGBS(Standard Chartered Bank Global Business Services Private Limited)
+- company: Accenture
+- previous companies: Ericsson Private Limited, MBRDI(Mercedes Benz Research and Development India), Scale AI(Turing), SCBGBS(Standard Chartered Bank Global Business Services Private Limited)
 
 
 - fields_of_interests:
+  - [x]  Artificial Generative Intelligence,
+  - [x]  Parallel Processing,
+  - [x]  Blockchain,
+  - [x]  Utube channel,
+  - [x]  Competitive Programming,
+  - [x]  Webapp development,
+  - [x]  Software development,
+  - [x]  Automation of Manual Testing, 
+  - [x]  Generative AI - Tool Calling functions,
+  - [x]  Metaverse,
+  - [x]  India's best free universal brand,
   - [x]  Web Development,
   - [x]  Data Science,
   - [x]  Machine Learning,
   - [x]  UI/UX Programming in python,
   - [x]  Network Programming in python,
   - [x]  Noise Detection in images,
-  - [x]  Docker 
+  - [x]  Docker,
+  - [x]  Terraform  
      
 
 - technical_background:

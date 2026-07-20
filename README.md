@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Launched India's best free price based universal product (Vikhorix)
+Launched India's best free price based universal products based brand (Vikhorix)
 
 <img width="1852" height="652" alt="image" src="https://github.com/user-attachments/assets/df7b405e-364c-4bf9-a44e-ba1c56705603" />
 

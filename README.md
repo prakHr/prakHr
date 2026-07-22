@@ -95,8 +95,8 @@ Launched India's best free price based universal products based brand (Vikhorix)
 - technical_background:
   - [x]  Employed - Senior Software Engineer,
   - [x]  Previously Employed As - Data Analyst,
-  - [x]  Intern - Database Management & Machine Learning in Python,
-  - [x]  Intern - Artificial Intelligence,
+  - [x]  Developer - Database Management & Machine Learning in Python,
+  - [x]  Developer - Artificial Intelligence,
 
 
 - currently_learning: 

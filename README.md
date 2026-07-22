@@ -126,6 +126,7 @@ Launched India's best free price based universal products based brand (Vikhorix)
     - [x] Finished the 851 hour courses of DSA+CP+OA of kumarK.
     - [x] Started writing the scalable code using multiprocessing in python.
     - [x] Launched my price free universal product based brand. 
+    - [x] Gained 151 views by launching mere 157 videos on my self learning youtube channel. 
    
 
 - hobbies: [

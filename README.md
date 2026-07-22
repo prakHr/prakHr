@@ -101,7 +101,7 @@ Launched India's best free price based universal products based brand (Vikhorix)
 
 
 - currently_learning: 
-  - [x] MapReduce, Network Programming and ML Algos from scratch
+  - [x] MapReduce, Pyspark, Network Programming and ML Algos from scratch
 
 - 2022 Goals: 
   - [x] Learn to write optimized algorithms using the knowledge of Competitive Programming Contests. Do at least 2 self taught courses till the end of this year.(One Done on Game Development in Unity using c-sharp and another done on blockchain). 

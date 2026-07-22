@@ -68,6 +68,7 @@ Launched India's best free price based universal products based brand (Vikhorix)
 
 - company: Accenture
 - previous companies: Accenture Private Limited(India), Ericsson Private Limited(India), MBRDI(Mercedes Benz Research and Development India), Scale AI(Turing), SCBGBS(Standard Chartered Bank Global Business Services Private Limited)
+- other companies minor works included: Albatronix, Axion, Chejuba, HappyMonk, Merilytics, NetworthCorp, On Finance, Skylarks, Zycus
 
 
 - fields_of_interests:

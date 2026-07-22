@@ -67,7 +67,7 @@ Launched India's best free price based universal products based brand (Vikhorix)
   - [x] Did Udemy Courses related to basics of Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Applied Statistics in the area of Hypothesis Testing, Bayesian Learning using A/B Testing and UI/UX website development in python. 
 
 - company: Accenture
-- previous companies: Ericsson Private Limited, MBRDI(Mercedes Benz Research and Development India), Scale AI(Turing), SCBGBS(Standard Chartered Bank Global Business Services Private Limited)
+- previous companies: Accenture Private Limited(India), Ericsson Private Limited(India), MBRDI(Mercedes Benz Research and Development India), Scale AI(Turing), SCBGBS(Standard Chartered Bank Global Business Services Private Limited)
 
 
 - fields_of_interests:

@@ -1,3 +1,8 @@
+<p align="center" style='margin: 16px 4px 8px;'>
+    <img src="https://komarev.com/ghpvc/?username=prakHr&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
+</p>
+
+
 ### INDIA's MOST AWESOME FRONTEND ANIMATION TO WATCH
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8978e44c-3ff8-444e-83ec-1b44b2b49c13" />
@@ -22,6 +27,7 @@ _ 👂 My name is Prakhar Gandhi, I am the man who will become king of the pirat
 - 🔭 I have worked on making personal top 50 ideas and made them come to reality. Currently working in Accenture Private Limited Bangalore, previous client included ENIQ(Ericsson), MBRDI(Mercedes Benz Research and Development India) and Wipro Private Limited for automation of software and optimization related algorithms on various paradigm shift of software. Previously worked for a small tenure in Scale AI joined via Turing for almost 6 months as a prompt engineer. Previously worked in Standard Chartered Bank Global Business Services Private Limited @ Bangalore office on building solutions in Machine Learning, Deep Learning, Artificial Intelligence and Computer Vision using detecto and imagededup using fasterRCNNs.
 - 📫 How to reach me: Through gprakhar0@gmail.com 
 - 🌱 You can see what I am currently upto on https://metaverse-portfolio-website.vercel.app/
+
 
 <p align="center" style='margin: 16px 4px 8px;'>
     <a href="https://github.com/ryo-ma/github-profile-trophy">

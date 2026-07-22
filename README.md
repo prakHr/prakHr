@@ -119,7 +119,13 @@ Launched India's best free price based universal products based brand (Vikhorix)
 - 2025 Goals:
    - [x] Created a chatbot like chatgpt integrated with llm with chat history stored in databases and fetch it from there to show it in UI for our company.
    - [x] Created a web app in lit.js which is similar to react.js and other javascript libraries out there.
-  
+
+- 2026 Goals:
+    - [x] Increased my potential by my belief in God with the help of a special mentor(kumarK).
+    - [x] Finished the 851 hour courses of DSA+CP+OA of kumarK.
+    - [x] Started writing the scalable code using multiprocessing in python.
+    - [x] Launched my price free universal product based brand. 
+   
 
 - hobbies: [
     

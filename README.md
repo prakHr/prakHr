@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/19fc2167-e111-4007-9fe4-dc77698e425e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/329b7d83-d503-4c4f-a4e3-f13df529414f" />
+
 
 
 <p align='center' style='margin: 16px 4px 8px;'>
@@ -18,7 +19,7 @@ _ 👂 My name is Prakhar Gandhi, I am the man who will become king of the pirat
 
 <p align="center" style='margin: 16px 4px 8px;'>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b8643585-b099-4bbf-9c8f-5480170f58d2" />
+        <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/26e10948-dbed-4884-ad1b-60a84efb85a9" />
     </a>
 </p>
 
@@ -42,7 +43,7 @@ Here are some ideas to get you started:
 -->
 Launched India's best free price based universal products based brand (Vikhorix)
 
-<img width="1852" height="652" alt="image" src="https://github.com/user-attachments/assets/df7b405e-364c-4bf9-a44e-ba1c56705603" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/516dd9be-bca1-43b4-981b-4833ba05252b" />
 
 
 - name: Prakhar Gandhi

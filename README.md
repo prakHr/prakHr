@@ -129,7 +129,10 @@ Launched India's best free price based universal products based brand (Vikhorix)
 
 - 2026 Goals:
     - [x] Increased my potential by my belief in God with the help of a special mentor(kumarK).
-    - [x] Finished the 851 hour courses of DSA+CP+OA of kumarK.
+    - [x] Finished the 851 hour courses of DSA+CP+OA of kumarK. Tips for others who wants to enroll in this course :-
+    - [1.] Develop a mindset to attack at the screen and ready to read/write and understand code without doing any practice whenever you want to do it.
+    - [2.] Envelope basic nuances of code in your mind so that you don't forget it till you die.
+    - [3.] Last Tip, Believe in God.
     - [x] Started writing the scalable code using multiprocessing in python.
     - [x] Launched my price free universal product based brand. 
     - [x] Gained 151 views by launching mere 157 videos on my self learning youtube channel. 

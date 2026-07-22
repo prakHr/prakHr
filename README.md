@@ -1,3 +1,9 @@
+### INDIA's MOST AWESOME FRONTEND ANIMATION TO WATCH
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8978e44c-3ff8-444e-83ec-1b44b2b49c13" />
+
+
+
 ### Hi there 👋
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/329b7d83-d503-4c4f-a4e3-f13df529414f" />

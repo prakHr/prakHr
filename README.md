@@ -76,6 +76,8 @@ Launched India's best free price based universal products based brand (Vikhorix)
 - previous companies: Accenture Private Limited(India), Ericsson Private Limited(India), MBRDI(Mercedes Benz Research and Development India), Scale AI(Turing), SCBGBS(Standard Chartered Bank Global Business Services Private Limited)
 - other companies minor works included: Albatronix, Axion, Chejuba, HappyMonk, Merilytics, NetworthCorp, On Finance, Skylarks, Zycus
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/baf88174-6c93-4b2f-8463-50d41bfabc89" />
+
 
 - fields_of_interests:
   - [x]  Artificial Generative Intelligence,
@@ -97,7 +99,9 @@ Launched India's best free price based universal products based brand (Vikhorix)
   - [x]  Noise Detection in images,
   - [x]  Docker,
   - [x]  Terraform  
-     
+
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/b730d873-e7d3-4374-b047-e7d85247cdb2" />
+
 
 - technical_background:
   - [x]  Employed - Senior Software Engineer,
@@ -108,6 +112,9 @@ Launched India's best free price based universal products based brand (Vikhorix)
 
 - currently_learning: 
   - [x] MapReduce, Pyspark, Network Programming and ML Algos from scratch
+
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/f2d6e174-8ce1-4bf4-b6a1-7497d8750eb6" />
+
 
 - 2022 Goals: 
   - [x] Learn to write optimized algorithms using the knowledge of Competitive Programming Contests. Do at least 2 self taught courses till the end of this year.(One Done on Game Development in Unity using c-sharp and another done on blockchain). 
@@ -136,7 +143,9 @@ Launched India's best free price based universal products based brand (Vikhorix)
     - [x] Started writing the scalable code using multiprocessing in python.
     - [x] Launched my price free universal product based brand. 
     - [x] Gained 151 views by launching mere 157 videos on my self learning youtube channel. 
-   
+
+<img width="1917" height="1076" alt="image" src="https://github.com/user-attachments/assets/a6819469-9e8a-43a9-b493-4fbc72765aff" />
+
 
 - hobbies: [
     

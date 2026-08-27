@@ -317,11 +317,9 @@ Launched India's best free price based universal products based brand (Vikhorix)
     </a>
 </p>
 
-![Prakhar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=prakHr&show_icons=true&theme=radical)
 
 
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prakHr&layout=compact)](https://github-readme-stats-sigma-five.vercel.app)
 
 
 ![Snake animation](https://github.com/prakHr/prakHr/blob/output/github-contribution-grid-snake.svg)

@@ -1,3 +1,8 @@
+## 🌐 My simple alternate Portfolio version
+
+[![View My Portfolio](https://img.shields.io/badge/🚀%20View%20My%20Portfolio-Forkfolio-black?style=for-the-badge)](https://prakhr.forkfolio.dev/)
+
+
 <p align="center" style='margin: 16px 4px 8px;'>
     <img src="https://komarev.com/ghpvc/?username=prakHr&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
     <a href="https://prakhr.forkfolio.dev/">Forkfolio Website Link</a>

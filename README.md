@@ -68,7 +68,7 @@ Launched India's best free price based universal products based brand (Vikhorix)
 - located_in: Bangalore, Karnataka
 - current_job: Senior Technical Lead Architect
 - previous_job: Senior Software Engineer
-- previous_previous_job: Prompt Engineeer
+- previous_previous_job: Prompt Engineer
 - previous_previous_previous_job: Data Analyst II
 - previous_previous_previous_previous_job: Data Analyst
 

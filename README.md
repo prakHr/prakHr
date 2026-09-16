@@ -80,13 +80,16 @@ Launched India's best free price based universal products based brand (Vikhorix)
   - [x] Did Udemy Courses related to basics of Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Applied Statistics in the area of Hypothesis Testing, Bayesian Learning using A/B Testing and UI/UX website development in python. 
 
 - company: Accenture
-- previous companies: Accenture Private Limited(India), Ericsson Private Limited(India), MBRDI(Mercedes Benz Research and Development India), Scale AI(Turing), SCBGBS(Standard Chartered Bank Global Business Services Private Limited)
+- previous companies: Accenture Private Limited(India), Ericsson Private Limited(India), MBRDI(Mercedes Benz Research and Development India), Scale AI(Turing), SCB GBS(Standard Chartered Bank Global Business Services Private Limited)
 - other companies minor works included: Albatronix, Axion, Chejuba, HappyMonk, Merilytics, NetworthCorp, On Finance, Skylarks, Zycus
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/baf88174-6c93-4b2f-8463-50d41bfabc89" />
 
 
 - fields_of_interests:
+  - [x]  Agentic AI,
+  - [x]  Custom Langgraph,
+  - [x]  Retrieval Augmented Generation,
   - [x]  Artificial Generative Intelligence,
   - [x]  Parallel Processing,
   - [x]  Blockchain,
@@ -111,13 +114,20 @@ Launched India's best free price based universal products based brand (Vikhorix)
 
 
 - technical_background:
-  - [x]  Employed - Senior Software Engineer,
+  - [x]  Employed - Senior Technical Lead Architect
+  - [x]  Employed_at_Previously - Senior Software Engineer
+  - [x]  Employed_at_Previously - Prompt Engineer
+  - [x]  Employed_at_Previously - Data Analyst II
+  - [x]  Employed_at_Previously - Data Analyst
+
   - [x]  Previously Employed As - Data Analyst,
   - [x]  Developer - Database Management & Machine Learning in Python,
   - [x]  Developer - Artificial Intelligence,
 
-
 - currently_learning: 
+  - [x] Scalability using mpire(Multiprocessing is really easy)
+
+- previously_learnt: 
   - [x] MapReduce, Pyspark, Network Programming and ML Algos from scratch
 
 <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/f2d6e174-8ce1-4bf4-b6a1-7497d8750eb6" />

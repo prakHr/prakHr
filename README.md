@@ -115,12 +115,11 @@ Launched India's best free price based universal products based brand (Vikhorix)
 
 - technical_background:
   - [x]  Employed - Senior Technical Lead Architect
-  - [x]  Employed_at_Previously - Senior Software Engineer
-  - [x]  Employed_at_Previously - Prompt Engineer
-  - [x]  Employed_at_Previously - Data Analyst II
-  - [x]  Employed_at_Previously - Data Analyst
+  - [x]  Previously Employed As - Senior Software Engineer
+  - [x]  Previously Employed As - Prompt Engineer
+  - [x]  Previously Employed As - Data Analyst II
+  - [x]  Previously Employed As - Data Analyst
 
-  - [x]  Previously Employed As - Data Analyst,
   - [x]  Developer - Database Management & Machine Learning in Python,
   - [x]  Developer - Artificial Intelligence,
 

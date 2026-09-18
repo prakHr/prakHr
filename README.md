@@ -31,7 +31,7 @@ _ 👂 My name is Prakhar Gandhi, I am the man who will become king of the pirat
 - 🔭 Deployed a scalable web app like Youtube with Location based Queries(locTube). Also other apps included CubeClicker, JsonDataViewer, JsonDataChartViewer are also deployed. You can find the deployed app @ https://prakhr.github.io/Portfolio-Site/#enterpriseWebApps
 - 🔭 Deployed features related to my machine learning.
 - 🔭 Immediately available to join any company and prefer to do permanent WFH.
-- 🔭 I have worked on making personal top 50 ideas and made them come to reality. Currently working in Accenture Private Limited Bangalore, previous client included ENIQ(Ericsson), MBRDI(Mercedes Benz Research and Development India) and Wipro Private Limited for automation of software and optimization related algorithms on various paradigm shift of software. Previously worked for a small tenure in Scale AI joined via Turing for almost 6 months as a prompt engineer. Previously worked in Standard Chartered Bank Global Business Services Private Limited @ Bangalore office on building solutions in Machine Learning, Deep Learning, Artificial Intelligence and Computer Vision using detecto and imagededup using fasterRCNNs.
+- 🔭 I have worked on making personal top 50 ideas and made them come to reality. Currently working in Accenture Private Limited Bangalore, previous client included ENIQ (Ericsson), MBRDI (Mercedes Benz Research and Development India) and Wipro Private Limited for automation of software and optimization related algorithms on various paradigm shift of software. Previously worked for a small tenure in Scale AI joined via Turing for almost 6 months as a prompt engineer. Previously worked in Standard Chartered Bank Global Business Services Private Limited @ Bangalore office on building solutions in Machine Learning, Deep Learning, Artificial Intelligence and Computer Vision using detecto and imagededup using fasterRCNNs.
 - 📫 How to reach me: Through gprakhar0@gmail.com 
 - 🌱 You can see what I am currently upto on https://metaverse-portfolio-website.vercel.app/
 
@@ -80,7 +80,7 @@ Launched India's best free price based universal products based brand (Vikhorix)
   - [x] Did Udemy Courses related to basics of Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Applied Statistics in the area of Hypothesis Testing, Bayesian Learning using A/B Testing and UI/UX website development in python. 
 
 - company: Accenture
-- previous companies: Accenture Private Limited(India), Ericsson Private Limited(India), MBRDI(Mercedes Benz Research and Development India), Scale AI(Turing), SCB GBS(Standard Chartered Bank Global Business Services Private Limited)
+- previous companies: Accenture Private Limited (India), Ericsson Private Limited (India), MBRDI (Mercedes Benz Research and Development India), Scale AI (Turing), SCB GBS (Standard Chartered Bank Global Business Services Private Limited)
 - other companies minor works included: Albatronix, Axion, Chejuba, HappyMonk, Merilytics, NetworthCorp, On Finance, Skylarks, Zycus
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/baf88174-6c93-4b2f-8463-50d41bfabc89" />
@@ -126,7 +126,7 @@ Launched India's best free price based universal products based brand (Vikhorix)
   - [x]  Developer - Artificial Intelligence,
 
 - currently_learning: 
-  - [x] Scalability using mpire(Multiprocessing is really easy)
+  - [x] Scalability using mpire (Multiprocessing is really easy)
 
 - previously_learnt: 
   - [x] MapReduce, Pyspark, Network Programming and ML Algos from scratch
@@ -175,7 +175,7 @@ Launched India's best free price based universal products based brand (Vikhorix)
     <br>
   💬  "Prompt Engineering using ChatGPT",
     <br>
-  💬  "Learning Core Subjects of CS like OOPs(Object Oriented Programming), OS(Operating Systems), DBMS(Database Management Systems) and CN(Computer Networks)"
+  💬  "Learning Core Subjects of CS like OOPs (Object Oriented Programming), OS (Operating Systems), DBMS (Database Management Systems) and CN (Computer Networks)"
     <br>
     
 ]

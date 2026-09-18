@@ -87,6 +87,7 @@ Launched India's best free price based universal products based brand (Vikhorix)
 
 
 - fields_of_interests:
+  - [x]  Guardrail mechanism using llmshield, 
   - [x]  Agentic AI,
   - [x]  Custom Langgraph,
   - [x]  Retrieval Augmented Generation,

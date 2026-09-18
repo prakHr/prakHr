@@ -88,7 +88,7 @@ Launched India's best free price based universal products based brand (Vikhorix)
 
 - fields_of_interests:
   - [x]  Awesomest UI using Dash Framework in python, 
-  - [x]  Scalable keyword in Contract Extraction, 
+  - [x]  Scalable important keyword extraction in Contract Projects, 
   - [x]  Guardrail mechanism using llmshield, 
   - [x]  Agentic AI,
   - [x]  Model Context Protocol,

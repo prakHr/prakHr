@@ -1,4 +1,4 @@
-## 🌐 My simple alternate Portfolio version
+## 🌐 My awesomest alternate Portfolio version
 
 [![View My Portfolio](https://img.shields.io/badge/🚀%20View%20My%20Portfolio-Forkfolio-black?style=for-the-badge)](https://prakhr.forkfolio.dev/)
 

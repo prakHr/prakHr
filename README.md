@@ -88,6 +88,7 @@ Launched India's best free price based universal products based brand (Vikhorix)
 
 - fields_of_interests:
   - [x]  Awesomest UI using Dash Framework in python, 
+  - [x]  Scaling the algorithms with uttermost complexity not just limited to Competitive programming Algorithms which is 100 - 1000 times more complex than algorithms found in project euler, (for instance :- shor's algorithm, universal top/bottom-k elements) in python, 
   - [x]  Scalable important keyword extraction in Contract Projects, 
   - [x]  Guardrail mechanism using llmshield, 
   - [x]  Agentic AI,

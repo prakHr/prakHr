@@ -87,6 +87,7 @@ Launched India's best free price based universal products based brand (Vikhorix)
 
 
 - fields_of_interests:
+  - [x]  EDA,
   - [x]  Chaining Functions,
   - [x]  Fuzzy Logic,
   - [x]  Cluster Analysis,

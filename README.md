@@ -7,7 +7,7 @@
     <img width="1917" height="1002" alt="image" src="https://github.com/user-attachments/assets/f59546ac-359e-4e72-9210-735b0aeda045" />
     <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/9a89ffa1-c7d5-4e16-a1d7-02e441d36744" />
     <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/ed2c7347-1969-4f57-9a9a-9a85dcf2fd38" />
-    <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/a3bf71e4-7fd4-40fd-bcac-9bae7e021cde" />
+    <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/534d2779-407f-4a75-bc80-1be4cc2a7653" />
     <img src="https://komarev.com/ghpvc/?username=prakHr&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
     <a href="https://prakhr.forkfolio.dev/">Forkfolio Website Link</a>
 </p>

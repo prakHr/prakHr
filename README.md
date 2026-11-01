@@ -91,6 +91,8 @@ Launched India's best free price based universal products based brand (Vikhorix)
 
 
 - fields_of_interests:
+  - [x]  Pretty Print using python in a new way,
+  - [x]  Transparent Image Transformations using scalability,
   - [x]  EDA,
   - [x]  Chaining Functions,
   - [x]  Fuzzy Logic,

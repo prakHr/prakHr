@@ -2,6 +2,9 @@
 
 [![View My Portfolio](https://img.shields.io/badge/🚀%20View%20My%20Portfolio-Forkfolio-black?style=for-the-badge)](https://prakhr.forkfolio.dev/)
 
+<img width="800" height="447" alt="KagamisGate" src="https://github.com/user-attachments/assets/240b9edb-5abd-4b7a-b38b-b8d521519083" />
+
+
 
 <p align="center" style='margin: 16px 4px 8px;'>
     <img width="1917" height="1002" alt="image" src="https://github.com/user-attachments/assets/f59546ac-359e-4e72-9210-735b0aeda045" />

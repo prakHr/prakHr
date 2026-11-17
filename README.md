@@ -375,3 +375,6 @@ Launched India's best free price based universal products based brand (Vikhorix)
 
 
 ![Snake animation](https://github.com/prakHr/prakHr/blob/output/github-contribution-grid-snake.svg)
+
+<img width="1192" height="220" alt="image" src="https://github.com/user-attachments/assets/99da7738-1986-401f-a569-a19bdc040a00" />
+
